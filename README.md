@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Huzaifa @arainhuzaifa57
-- 👀 I’m interested in native mobile applications development
-- 🌱 I’m currently learning Bachelors in Software engineering.
-- 💞️ I’m looking to collaborate on mobile applications projects.
+- 👀 I’m interested in hybrid mobile applications development
+- 🌱 I have done Bachelors in Software engineering.
+- 💞️ I’m looking to collaborate on multiple projects.
 - 📫 You can reach me through email arainhuzaifa57@gmail.com
 
 <!---
