@@ -55,4 +55,4 @@ Experienced software engineer who strongly focuses on developing efficient and s
 
 ---
 
-<h3 align="center">💬 💬 Let’s build something extraordinary together!</h3>
+<h3 align="center">💬 Let’s build something extraordinary together!</h3>
